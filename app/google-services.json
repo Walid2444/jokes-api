@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343166228330",
+    "project_id": "jokeapp-3eb4a",
+    "storage_bucket": "jokeapp-3eb4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343166228330:android:a3faa414da1849a822f713",
+        "android_client_info": {
+          "package_name": "co.walid.jokeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe_vX1SYwktgwNIn-G7lxGEODbqD1-1R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
